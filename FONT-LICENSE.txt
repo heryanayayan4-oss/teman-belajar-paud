@@ -1,0 +1,7 @@
+Huruf yang dipakai di aplikasi ini: Poppins (bobot Medium dan Bold, dipotong ke karakter Latin).
+
+Poppins dirilis di bawah SIL Open Font License, Version 1.1.
+Hak cipta: The Poppins Project Authors (https://github.com/itfoundry/Poppins)
+Teks lengkap lisensi: https://openfontlicense.org
+
+Font ini tidak dijual terpisah. Berkas font di dalam index.html adalah turunan terpotong (subset) dari font asli.
